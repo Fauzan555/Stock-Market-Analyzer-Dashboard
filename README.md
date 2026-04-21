@@ -13,7 +13,6 @@ This project is designed to demonstrate **end-to-end data analysis skills** incl
 - Interactive data visualization
 - Insight generation
 
-It serves as a **portfolio-ready Data Science project** showcasing practical application of Python in financial analytics.
 
 ---
 
@@ -51,7 +50,7 @@ It serves as a **portfolio-ready Data Science project** showcasing practical app
 - Current Price
 - Price Change (absolute & %)
 - Volume
-- RSI value
+- RSI value (Relative Strength Index)
 
 ### 🧠 Insights Engine
 - RSI-based signals:
@@ -78,9 +77,9 @@ It serves as a **portfolio-ready Data Science project** showcasing practical app
 
 ### Step 3: Feature Engineering
 - Computed technical indicators:
-  - SMA, EMA
-  - RSI
-  - VPT
+  - SMA (Simple Moving Average), EMA (Exponential Moving Average)
+  - RSI (Relative Strength Index)
+  - VPT (Volume Price Trend)
 
 ### Step 4: Visualization
 - Built interactive charts using `plotly`
@@ -92,7 +91,7 @@ It serves as a **portfolio-ready Data Science project** showcasing practical app
 
 ### Step 6: Insight Generation
 - Implemented logic-based signals:
-  - RSI thresholds
+  - RSI thresholds (Relative Strength Index)
   - Moving average crossover
 
 ---
